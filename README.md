@@ -3,7 +3,7 @@
 Author: Ismail Alamir
 ### Setup
 ### PR for lab 05
-[PR for lab 05](https://github.com/)
+[PR for lab 05](https://github.com/IsmailAlamir/pythonic-garage-band/pull/1)
 
 How to initialize/run your application
 ```
