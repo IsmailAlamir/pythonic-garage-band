@@ -7,7 +7,7 @@ Author: Ismail Alamir
 
 How to initialize/run your application
 ```
-python madlib_cli/madlib.py
+python pythonic_garage_band/band
 ```
 to testing :
 ```
